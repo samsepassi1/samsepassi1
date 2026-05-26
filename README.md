@@ -36,6 +36,18 @@ Currently building **headless AI remediation** — autonomous agents that detect
 
 ---
 
+## 📌 Featured repos
+
+<div align="center">
+
+[![aiscan](https://img.shields.io/badge/aiscan-AST_%2B_LLM_security_scanner-red?style=for-the-badge&logo=github)](https://github.com/samsepassi1/aiscan)
+[![AI](https://img.shields.io/badge/AI-Experiments_%26_projects-blue?style=for-the-badge&logo=github)](https://github.com/samsepassi1/AI)
+[![School](https://img.shields.io/badge/School-Coursework_%26_projects-green?style=for-the-badge&logo=jupyter)](https://github.com/samsepassi1/School)
+
+</div>
+
+---
+
 ## 🛠️ Tech I live in
 
 <div align="center">
@@ -48,29 +60,6 @@ Currently building **headless AI remediation** — autonomous agents that detect
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured repos
-
-<div align="center">
-
-[![aiscan](https://github-readme-stats.vercel.app/api/pin/?username=samsepassi1&repo=aiscan&theme=tokyonight)](https://github.com/samsepassi1/aiscan)
-[![AI](https://github-readme-stats.vercel.app/api/pin/?username=samsepassi1&repo=AI&theme=tokyonight)](https://github.com/samsepassi1/AI)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsepassi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsepassi1&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
