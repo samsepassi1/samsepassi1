@@ -1,42 +1,37 @@
 <div align="center">
 
-# 🐾✨ Sam Sepassi ✨🐾
+# Sam Sepassi
 
-**AI Security Engineer • Breaking things so you don't have to**
+**AI Security Engineer — Application Security & AI-Native Tooling**
 
 [![Security](https://img.shields.io/badge/AI-Security-red?style=for-the-badge&logo=shield)](https://github.com/samsepassi1/aiscan)
 [![Walmart](https://img.shields.io/badge/Walmart-Global%20Tech-0071ce?style=for-the-badge&logo=walmart)](https://walmart.com)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![GitHub](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/samsepassi1)
 
-[![GitHub followers](https://img.shields.io/github/followers/samsepassi1?style=for-the-badge&logo=github&color=purple)](https://github.com/samsepassi1)
-[![GitHub stars](https://img.shields.io/github/stars/samsepassi1?style=for-the-badge&logo=github&color=yellow)](https://github.com/samsepassi1?tab=stars)
-
-*"Security isn't a feature — it's the default."*
-
 </div>
 
 ---
 
-## 👋 Hey there
+## About
 
-I'm Sam — AI Security Engineer at **Walmart Global Tech**, building AI-native security tooling through the WDSX program. I work at the intersection of AppSec, LLMs, and developer experience. If a vulnerability can be fixed by an agent before a human even sees it, I want to make that happen.
+AI Security Engineer at **Walmart Global Tech** under the WDSX (Walmart Developer Security Experience) program. I work at the intersection of application security, large language models, and developer tooling — building systems that make security invisible and inevitable.
 
-Currently building **headless AI remediation** — autonomous agents that detect, fix, and PR security findings with full audit trails. No developer invocation required.
+Currently focused on **headless AI remediation** — autonomous agents that detect vulnerabilities, generate fixes, and open pull requests with full audit trails and compliance artifacts. No developer invocation required.
 
 ---
 
-## 🔧 What I'm working on
+## Current Work
 
-| Project | What it does |
+| Project | Description |
 |---------|-------------|
 | **Claude Code Headless POC** | Autonomous SCA + SAST remediation agent — CI-triggered, auto-PR with compliance artifacts |
 | **[aiscan](https://github.com/samsepassi1/aiscan)** | Hybrid AST + LLM security scanner for AI-generated code vulnerabilities |
-| **Budget Tracker** | Chase → Google Sheets automated financial tracking with Claude-powered categorization |
+| **Budget Tracker** | Chase → Google Sheets automated financial tracking with ML-powered categorization |
 
 ---
 
-## 📌 Featured repos
+## Featured Repositories
 
 <div align="center">
 
@@ -48,7 +43,7 @@ Currently building **headless AI remediation** — autonomous agents that detect
 
 ---
 
-## 🛠️ Tech I live in
+## Tech Stack
 
 <div align="center">
 
@@ -65,19 +60,8 @@ Currently building **headless AI remediation** — autonomous agents that detect
 
 ---
 
-## 🐾 Fun facts
+## Tools & Workflow
 
-- I run [Hermes Agent](https://github.com/NousResearch/hermes-agent) as my AI sidekick — it drives my desktop, manages my vault, and keeps me organized
-- I track every dollar through an automated Chase → Google Sheets pipeline because spreadsheets > surprises
-- My vault has a personality: Tammy is the wise one, Code Puppy is the scrappy one
-- I believe the best security tool is the one the developer never has to think about
-
----
-
-<div align="center">
-
-**[⭐ Star a repo if you found something useful! ⭐](#)**
-
-*"Build tools, not tickets."*
-
-</div>
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) for AI-assisted desktop automation and knowledge management
+- Automated financial tracking pipeline (Chase → Google Sheets) with ML-powered transaction categorization
+- Obsidian vault for persistent project knowledge and stakeholder tracking
